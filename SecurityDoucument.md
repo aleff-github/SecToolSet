@@ -236,6 +236,9 @@ https://devd.me/log//posts/startup-security/
 
 ## 学习资料
 
+Tor 协议底层原理的免费开源书《Tor 解剖》（Anatomia di Tor / Onion Routing Anatomy），配有 20 个使用 Python、Docker 和私有 Tor 测试网络的实验。简体中文版由 AI 翻译，尚未经母语者独立审校。
+https://github.com/aleff-github/onion-routing-anatomy/tree/main/book/zh-Hans
+
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses
 
